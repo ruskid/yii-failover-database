@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @copyright Copyright Victor Demin, 2014
+ * @copyright Copyright Victor Demin, 2015
  * @license https://github.com/ruskid/yii-failover-database/LICENSE
  * @link https://github.com/ruskid/yii-failover-database#readme
  */
