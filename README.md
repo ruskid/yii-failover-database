@@ -15,7 +15,7 @@ Your components in main.php.
   'class' => 'application.components.FoDbConnection',
   'connectionString' => '...',
   'username' => '...',
-  'password' => '...,
+  'password' => '...',
 ),
 'db4' => array(
   'class' => 'application.components.FoDbConnection',
