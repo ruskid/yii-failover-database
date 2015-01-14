@@ -9,7 +9,7 @@ Your components in main.php.
   'failOverConnections' => ['db3', 'db4'],
   'connectionString' => '...',
   'username' => '...',
-  'password' => '...,
+  'password' => '...',
 ),
 'db3' => array(
   'class' => 'application.components.FoDbConnection',
@@ -21,6 +21,6 @@ Your components in main.php.
   'class' => 'application.components.FoDbConnection',
   'connectionString' => '...',
   'username' => '...',
-  'password' => '...,
+  'password' => '...',
 ),
 ```
